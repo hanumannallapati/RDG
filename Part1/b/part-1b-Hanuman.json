@@ -1,0 +1,604 @@
+{
+   "postcodes": [
+      {
+         "postcode": "SL6",
+         "country": "England"
+      },
+      {
+         "postcode": "CF24",
+         "country": "Wales"
+      },
+      {
+         "postcode": "SW8",
+         "country": "England"
+      },
+      {
+         "postcode": "HA6",
+         "country": null
+      },
+      {
+         "postcode": "WA15",
+         "country": "England"
+      },
+      {
+         "postcode": "GU5",
+         "country": "England"
+      },
+      {
+         "postcode": "LN4",
+         "country": "England"
+      },
+      {
+         "postcode": "EN1",
+         "country": null
+      },
+      {
+         "postcode": "HP18",
+         "country": "England"
+      },
+      {
+         "postcode": "DG5",
+         "country": "Scotland"
+      },
+      {
+         "postcode": "CB3",
+         "country": "England"
+      },
+      {
+         "postcode": "KA15",
+         "country": null
+      },
+      {
+         "postcode": "W1W",
+         "country": null
+      },
+      {
+         "postcode": "RG12",
+         "country": "England"
+      },
+      {
+         "postcode": "LE1",
+         "country": "England"
+      },
+      {
+         "postcode": "BN1",
+         "country": "England"
+      },
+      {
+         "postcode": "GU12",
+         "country": "England"
+      },
+      {
+         "postcode": "KT12",
+         "country": "England"
+      },
+      {
+         "postcode": "BN3",
+         "country": null
+      },
+      {
+         "postcode": "LS11",
+         "country": "England"
+      },
+      {
+         "postcode": "WF10",
+         "country": "England"
+      },
+      {
+         "postcode": "BN22",
+         "country": "England"
+      },
+      {
+         "postcode": "CR5",
+         "country": "England"
+      },
+      {
+         "postcode": "SW9",
+         "country": "England"
+      },
+      {
+         "postcode": "NW8",
+         "country": "England"
+      },
+      {
+         "postcode": "NG11",
+         "country": "England"
+      },
+      {
+         "postcode": "SM5",
+         "country": "England"
+      },
+      {
+         "postcode": "CT2",
+         "country": "England"
+      },
+      {
+         "postcode": "DN3",
+         "country": null
+      },
+      {
+         "postcode": "FK8",
+         "country": "Scotland"
+      },
+      {
+         "postcode": "BA4",
+         "country": null
+      },
+      {
+         "postcode": "MK18",
+         "country": "England"
+      },
+      {
+         "postcode": "MK18",
+         "country": "England"
+      },
+      {
+         "postcode": "LE11",
+         "country": "England"
+      },
+      {
+         "postcode": "LE1",
+         "country": "England"
+      },
+      {
+         "postcode": "G20",
+         "country": null
+      },
+      {
+         "postcode": "HD9",
+         "country": "England"
+      },
+      {
+         "postcode": "SE1",
+         "country": "England"
+      },
+      {
+         "postcode": "S1",
+         "country": null
+      },
+      {
+         "postcode": "SW10",
+         "country": "England"
+      },
+      {
+         "postcode": "S74",
+         "country": null
+      },
+      {
+         "postcode": "ME8",
+         "country": "England"
+      },
+      {
+         "postcode": "MK43",
+         "country": null
+      },
+      {
+         "postcode": "CB11",
+         "country": "England"
+      },
+      {
+         "postcode": "BD23",
+         "country": "England"
+      },
+      {
+         "postcode": "SO50",
+         "country": "England"
+      },
+      {
+         "postcode": "NE2",
+         "country": null
+      },
+      {
+         "postcode": "NN3",
+         "country": null
+      },
+      {
+         "postcode": "NN3",
+         "country": null
+      },
+      {
+         "postcode": "SE4",
+         "country": null
+      },
+      {
+         "postcode": "SE4",
+         "country": null
+      },
+      {
+         "postcode": "WA8",
+         "country": "England"
+      },
+      {
+         "postcode": "RG17",
+         "country": "England"
+      },
+      {
+         "postcode": "SR7",
+         "country": null
+      },
+      {
+         "postcode": "KT1",
+         "country": "England"
+      },
+      {
+         "postcode": "BA13",
+         "country": null
+      },
+      {
+         "postcode": "WA3",
+         "country": "England"
+      },
+      {
+         "postcode": "GL1",
+         "country": "England"
+      },
+      {
+         "postcode": "E17",
+         "country": null
+      },
+      {
+         "postcode": "PE15",
+         "country": "England"
+      },
+      {
+         "postcode": "CO4",
+         "country": null
+      },
+      {
+         "postcode": "SO15",
+         "country": "England"
+      },
+      {
+         "postcode": "EH9",
+         "country": null
+      },
+      {
+         "postcode": "PO5",
+         "country": "England"
+      },
+      {
+         "postcode": "RG24",
+         "country": "England"
+      },
+      {
+         "postcode": "CO3",
+         "country": null
+      },
+      {
+         "postcode": "BS1",
+         "country": "England"
+      },
+      {
+         "postcode": "BS3",
+         "country": "England"
+      },
+      {
+         "postcode": "OX10",
+         "country": "England"
+      },
+      {
+         "postcode": "DH7",
+         "country": "England"
+      },
+      {
+         "postcode": "HP18",
+         "country": "England"
+      },
+      {
+         "postcode": "HA9",
+         "country": "England"
+      },
+      {
+         "postcode": "NG33",
+         "country": "England"
+      },
+      {
+         "postcode": "SS3",
+         "country": "England"
+      },
+      {
+         "postcode": "SG13",
+         "country": "England"
+      },
+      {
+         "postcode": "SS17",
+         "country": null
+      },
+      {
+         "postcode": "CH43",
+         "country": "England"
+      },
+      {
+         "postcode": "S9",
+         "country": "England"
+      },
+      {
+         "postcode": "NW2",
+         "country": "England"
+      },
+      {
+         "postcode": "DH8",
+         "country": null
+      },
+      {
+         "postcode": "IM2",
+         "country": null
+      },
+      {
+         "postcode": "WF10",
+         "country": "England"
+      },
+      {
+         "postcode": "IP29",
+         "country": "England"
+      },
+      {
+         "postcode": "CR4",
+         "country": "England"
+      },
+      {
+         "postcode": "NG12",
+         "country": "England"
+      },
+      {
+         "postcode": "SW18",
+         "country": "England"
+      },
+      {
+         "postcode": "IP8",
+         "country": null
+      },
+      {
+         "postcode": "S66",
+         "country": "England"
+      },
+      {
+         "postcode": "BS7",
+         "country": "England"
+      },
+      {
+         "postcode": "CW5",
+         "country": null
+      },
+      {
+         "postcode": "GU1",
+         "country": "England"
+      },
+      {
+         "postcode": "BS37",
+         "country": "England"
+      },
+      {
+         "postcode": "HA7",
+         "country": null
+      },
+      {
+         "postcode": "BN1",
+         "country": "England"
+      },
+      {
+         "postcode": "PE6",
+         "country": "England"
+      },
+      {
+         "postcode": "SW19",
+         "country": "England"
+      },
+      {
+         "postcode": "NE3",
+         "country": null
+      },
+      {
+         "postcode": "BA2",
+         "country": "England"
+      },
+      {
+         "postcode": "DH7",
+         "country": "England"
+      },
+      {
+         "postcode": "MK17",
+         "country": "England"
+      },
+      {
+         "postcode": "BD19",
+         "country": "England"
+      },
+      {
+         "postcode": "BA11",
+         "country": null
+      },
+      {
+         "postcode": "NG1",
+         "country": null
+      },
+      {
+         "postcode": "BH14",
+         "country": "England"
+      },
+      {
+         "postcode": "LE11",
+         "country": "England"
+      },
+      {
+         "postcode": "SW19",
+         "country": "England"
+      },
+      {
+         "postcode": "B17",
+         "country": "England"
+      },
+      {
+         "postcode": "LS6",
+         "country": "England"
+      },
+      {
+         "postcode": "RH20",
+         "country": null
+      },
+      {
+         "postcode": "SL0",
+         "country": "England"
+      },
+      {
+         "postcode": "CV34",
+         "country": "England"
+      },
+      {
+         "postcode": "S7",
+         "country": "England"
+      },
+      {
+         "postcode": "YO18",
+         "country": "England"
+      },
+      {
+         "postcode": "BF1",
+         "country": null
+      },
+      {
+         "postcode": "CV1",
+         "country": "England"
+      },
+      {
+         "postcode": "LS2",
+         "country": "England"
+      },
+      {
+         "postcode": "BR6",
+         "country": null
+      },
+      {
+         "postcode": "BA1",
+         "country": "England"
+      },
+      {
+         "postcode": "SA5",
+         "country": "Wales"
+      },
+      {
+         "postcode": "KY15",
+         "country": "Scotland"
+      },
+      {
+         "postcode": "N1",
+         "country": "England"
+      },
+      {
+         "postcode": "GL10",
+         "country": "England"
+      },
+      {
+         "postcode": "DE55",
+         "country": "England"
+      },
+      {
+         "postcode": "CM6",
+         "country": null
+      },
+      {
+         "postcode": "WA3",
+         "country": "England"
+      },
+      {
+         "postcode": "CV13",
+         "country": "England"
+      },
+      {
+         "postcode": "GU21",
+         "country": "England"
+      },
+      {
+         "postcode": "S3",
+         "country": null
+      },
+      {
+         "postcode": "TN23",
+         "country": "England"
+      },
+      {
+         "postcode": "NE28",
+         "country": "England"
+      },
+      {
+         "postcode": "EH11",
+         "country": null
+      },
+      {
+         "postcode": "SW20",
+         "country": "England"
+      },
+      {
+         "postcode": "SN8",
+         "country": "England"
+      },
+      {
+         "postcode": "NG5",
+         "country": "England"
+      },
+      {
+         "postcode": "DD1",
+         "country": null
+      },
+      {
+         "postcode": "CM1",
+         "country": null
+      },
+      {
+         "postcode": "WR14",
+         "country": "England"
+      },
+      {
+         "postcode": "EX4",
+         "country": "England"
+      },
+      {
+         "postcode": "EH9",
+         "country": null
+      },
+      {
+         "postcode": "PH1",
+         "country": "Scotland"
+      },
+      {
+         "postcode": "SE15",
+         "country": "England"
+      },
+      {
+         "postcode": "SE13",
+         "country": "England"
+      },
+      {
+         "postcode": "HU8",
+         "country": null
+      },
+      {
+         "postcode": "LS15",
+         "country": "England"
+      },
+      {
+         "postcode": "LD8",
+         "country": "Wales"
+      },
+      {
+         "postcode": "DD1",
+         "country": null
+      },
+      {
+         "postcode": "CM3",
+         "country": "England"
+      },
+      {
+         "postcode": "CT2",
+         "country": "England"
+      },
+      {
+         "postcode": "BS24",
+         "country": "England"
+      },
+      {
+         "postcode": "WR6",
+         "country": "England"
+      }
+   ]
+}
